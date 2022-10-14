@@ -1,0 +1,28 @@
+============= Main extentions =============
+
+->  formulahendry.auto-rename-tag
+->  thekalinga.bootstrap4-vscode
+->  ajanuw.bs5
+->  pranaygp.vscode-css-peek
+->  ecmel.vscode-html-css
+->  Zignd.html-css-class-completion
+->  ritwickdey.LiveServer
+->  PKief.material-icon-theme
+->  vscode-icons-team.vscode-icons
+->  dzhavat.bracket-pair-toggler
+
+
+============= Themes =============
+
+->  EliverLara.andromeda  (favorite)
+->  wesbos.theme-cobalt2
+->  azemoh.theme-onedark
+
+
+
+
+
+============= important link =============
+theme and extention github link of procoder bd vhai 
+
+https://github.com/shovoalways/Visual-Studio-Code-Customization
